@@ -1,0 +1,5 @@
+.erpeBG{
+    background-image: url(./erpe_image/udev_bg.png);
+    background-size: 100% 100%;
+    object-fit: cover;
+}

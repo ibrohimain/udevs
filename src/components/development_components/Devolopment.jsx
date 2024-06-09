@@ -10,7 +10,7 @@ import twoPhone from './developmment1-img/two-phone.png'
 
 const Devolopment = () => {
     return (
-        <div className='w-[85%] h-[820px] mx-auto '>
+        <div className='w-[85%] h-[820px] mx-auto mt-[40px]'>
             <div className='text-[74px] text-blue-700 w-[900px] font-semibold leading-[90px]'>Development of mobile applications</div>
             <div className='w-[100%] h-auto flex mt-[50px]'>
                 <div className='w-[50%] h-[90%]'>
